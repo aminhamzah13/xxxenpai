@@ -12,7 +12,4 @@ As a junior Flutter developer, I am constantly learning and striving to improve 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aminhmzh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aminhmzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=www.twitter.com/aminhamzah13)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
